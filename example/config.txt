@@ -1,0 +1,2 @@
+Prefix plugins/Faith/example
+Plugin Faith inputfile parameters.txt outputfile faith.csv
